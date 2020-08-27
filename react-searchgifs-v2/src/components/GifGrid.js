@@ -10,7 +10,7 @@ export const GifGrid = ({ category }) => {
 
     return (
         <>
-            <h3 className="animate__animated animate__fadeIn"> { category } </h3>
+            <h3 className="animate__animated animate__shakeY"> { category } </h3>
 
             { loading && <p className="animate__animated animate__flash">Loading</p> }
 
@@ -84,4 +84,3 @@ export const GifGrid = ({ category }) => {
 export default GifGrid
  */
 
- 
