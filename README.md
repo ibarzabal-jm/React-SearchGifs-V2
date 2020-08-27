@@ -6,7 +6,7 @@ Segunda versión de Buscador-Gifs-JavaScript hecho en React.js
 
 _Concepto:_
 
-* Es la segunda versión Buscador-Gifs-JavaScript, utilizando hooks, promesas, desestructuración de objetos y arreglos.
+* Es la segunda versión [Buscador-Gifs-JavaScript](https://github.com/ibarzabal-jm/Buscador-Gifs-JavaScript) usando React.js. En esta aplicación utilicé los hooks propiamente de react, promesas, desestructuración de objetos y arreglos .
 
 
 ## Herramientas 🛠️
