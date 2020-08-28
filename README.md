@@ -22,6 +22,7 @@ _Desarrollado con:_
 
 * React.js
 * [API Giphy Developers](https://developers.giphy.com/)
+* [Anímate Style](https://animate.style/)
 
 
 
