@@ -25,6 +25,11 @@ _Desarrollado con:_
 * [Animate Style](https://animate.style/)
 
 
+## Próxima versión
+
+
+
+
 
 ## Autor ✒️
 
