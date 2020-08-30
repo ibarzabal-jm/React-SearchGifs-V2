@@ -26,7 +26,7 @@ _Desarrollado con:_
 
 
 ## Próxima versión
-*La idea es aumentar o disminuir la cantidad de gifs utilizando lo hecho en React-Counter
+La idea es aumentar o disminuir la cantidad de gifs utilizando lo hecho en React-Counter
 
 
 
