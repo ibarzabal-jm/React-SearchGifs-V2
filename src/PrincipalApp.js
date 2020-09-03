@@ -6,7 +6,7 @@ export const PrincipalApp = () => {
 
    
     
-    const [categories, setCategories] = useState(['Hunter x Hunter']);
+    const [categories, setCategories] = useState(['Amor']);
 
     return (
         <>
