@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GrifGridItem /> debe de mostrar el componente correctamente  1`] = `
+<div
+  className="card animate__animated animate__rollIn"
+>
+  <img />
+  <p />
+</div>
+`;
