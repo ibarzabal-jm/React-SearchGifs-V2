@@ -9,7 +9,7 @@ describe('Pruebas con getGifs fetch', () => {
         expect( gifs.length ).toBe( 5 );
     })
     
-    test('debe de traer 5 elementos', async() => {
+    test('no debe traer elementos', async() => {
         
         const gifs = await getGifs('');
 
