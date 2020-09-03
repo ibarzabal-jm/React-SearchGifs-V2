@@ -2,11 +2,12 @@ import React, {useState} from 'react'
 import { AddCategory } from './components/AddCategory';
 import {GifGrid} from './components/GifGrid';
 
-export const PrincipalApp = () => {
+export const PrincipalApp = ( { defaultCategories = [] }) => {
 
    
     
-    const [categories, setCategories] = useState(['Amor']);
+    // const [categories, setCategories] = useState(['Amor']);
+    const [categories, setCategories] = useState( defaultCategories );
 
     return (
         <>
